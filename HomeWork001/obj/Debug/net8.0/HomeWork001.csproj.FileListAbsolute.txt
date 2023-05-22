@@ -1,0 +1,15 @@
+C:\Users\user\Domashka\HomeWork001\bin\Debug\net8.0\HomeWork001.exe
+C:\Users\user\Domashka\HomeWork001\bin\Debug\net8.0\HomeWork001.deps.json
+C:\Users\user\Domashka\HomeWork001\bin\Debug\net8.0\HomeWork001.runtimeconfig.json
+C:\Users\user\Domashka\HomeWork001\bin\Debug\net8.0\HomeWork001.dll
+C:\Users\user\Domashka\HomeWork001\bin\Debug\net8.0\HomeWork001.pdb
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.csproj.AssemblyReference.cache
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.AssemblyInfoInputs.cache
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.AssemblyInfo.cs
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.csproj.CoreCompileInputs.cache
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.dll
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\refint\HomeWork001.dll
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.pdb
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\HomeWork001.genruntimeconfig.cache
+C:\Users\user\Domashka\HomeWork001\obj\Debug\net8.0\ref\HomeWork001.dll
