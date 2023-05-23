@@ -13,3 +13,4 @@ C:\Users\user\Domashka\HomeWork002\obj\Debug\net8.0\refint\HomeWork002.dll
 C:\Users\user\Domashka\HomeWork002\obj\Debug\net8.0\HomeWork002.pdb
 C:\Users\user\Domashka\HomeWork002\obj\Debug\net8.0\HomeWork002.genruntimeconfig.cache
 C:\Users\user\Domashka\HomeWork002\obj\Debug\net8.0\ref\HomeWork002.dll
+C:\Users\user\Domashka\HomeWork002\obj\Debug\net8.0\HomeWork002.sourcelink.json
